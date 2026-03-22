@@ -42,3 +42,6 @@
 
 # Compiled files
 SQLite
+
+# VSCode configurations
+.vscode
