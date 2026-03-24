@@ -28,8 +28,6 @@ MetaCommandResult do_meta_command(const InputBuffer &input_buffer);
 
 StatementPrepareResult prepare_statement(const InputBuffer &input_buffer, Statement &stmt);
 
-StatementPrepareResult prepare_statement(const InputBuffer &input_buffer, Statement &stmt);
-
 void execute_statement(const Statement &stmt);
 
 
